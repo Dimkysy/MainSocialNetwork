@@ -34,7 +34,7 @@ const state:RootType = {
                 {id:1, name:"Dimich"},
                 {id:2, name:"Andrew"},
                 {id:3, name:"Sveta"},
-                {id:4, name: "Sasha"}
+                {id:4, name: "Sashaf"}
             ],
             messages: [
                 {id:1, message:"Hi"},
